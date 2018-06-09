@@ -1,0 +1,9 @@
+E:\csharp\二维码\二维码\bin\Debug\二维码.exe.config
+E:\csharp\二维码\二维码\bin\Debug\二维码.exe
+E:\csharp\二维码\二维码\bin\Debug\二维码.pdb
+E:\csharp\二维码\二维码\bin\Debug\zxing.dll
+E:\csharp\二维码\二维码\obj\Debug\二维码.Form1.resources
+E:\csharp\二维码\二维码\obj\Debug\二维码.Properties.Resources.resources
+E:\csharp\二维码\二维码\obj\Debug\二维码.csproj.GenerateResource.Cache
+E:\csharp\二维码\二维码\obj\Debug\二维码.exe
+E:\csharp\二维码\二维码\obj\Debug\二维码.pdb
